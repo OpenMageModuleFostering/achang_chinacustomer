@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Achang_Chinacustomer>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>Mage_Customer</depends>
+        </Achang_Chinacustomer>
+    </modules>
+</config>
