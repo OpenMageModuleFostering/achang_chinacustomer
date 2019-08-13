@@ -31,6 +31,12 @@
             <chinacustomer>
                 <class>Achang_Chinacustomer_Block</class>
             </chinacustomer>
+            <!-- rewrite adminhtml blocks -->
+            <adminhtml>
+                <rewrite>
+                    <customer_grid>Achang_Chinacustomer_Block_Grid</customer_grid>
+                </rewrite>
+            </adminhtml>
         </blocks>
         <resources>
             <chinacustomer_setup>

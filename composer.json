@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
-    "description": "去除lastname",
+    "description": "合并first name 和 last name",
     "authors": [
     {
         "name": "achang",
