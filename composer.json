@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Achang_Chinacustomer",
+    "name": "OpenMageModuleFostering\/Achang_Chinacustomer",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
-    "description": "合并first name 和 last name",
+    "description": "\u5408\u5e76first name \u548c last name",
     "authors": [
-    {
-        "name": "achang",
-        "email": "magento@achang.com"
-    }
-],
+        {
+            "name": "achang",
+            "email": "magento@achang.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
